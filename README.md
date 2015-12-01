@@ -1,2 +1,4 @@
 # SIM_interrogator
-read &amp; flush unread sms queue : Mediatek LinkIt ONE
+
+Read &amp; flush any unread sms queue using Mediatek LinkIt ONE. 
+Outputs to Serial port.
